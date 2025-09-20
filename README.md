@@ -174,7 +174,7 @@ Treatment Duration:
 Bacteremia: 14 days
 Endocarditis: 4-6 weeks
 
-6. PUBLIC HEALTH IMPLICATION
+5. PUBLIC HEALTH IMPLICATION
    
 5.1 Food Safety Concerns
 The high prevalence of L. monocytogenes in polony samples (78%) represents a significant food safety risk:
@@ -188,7 +188,7 @@ The detection of MDR Listeria strains necessitates:
 Enhanced infection control measures
 Surveillance program implementation
 
-7. CONCLUSIONS
+6. CONCLUSIONS
    
 This genomic analysis of 100 polony isolates reveals:
 1.High pathogenic potential: 78% L. monocytogenes prevalence
