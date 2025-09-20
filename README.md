@@ -143,11 +143,7 @@ Key Findings:
 3.3 VIRULENCE FACTOR
 
 Critical virulence factors detected:
-Listeriolysin O (hly): 78% of L. monocytogenes isolates
-Phospholipase C (plcA): 76% of pathogenic isolates
-Phospholipase C (plcB): 74% of pathogenic isolates
-Internalin A (inlA): 82% of L. monocytogenes
-Internalin B (inlB): 80% of L. monocytogenes
+actA, bsh, clpC, clpE, ClpP, fbpA, gtcA, hly, hpt, iap, icl, inlA, inlB, inlC, inlF, inlK, lap, lapB, llsA, llsB, llsD, llsG, llsH,llsP, llsX,llsY, lntA, lpeA, lplA1, lspA, mpl, oatA, pdgA, plcA, plcB, prfA
 
 
 4. Evidence-Based Antibiotic Recommendations
