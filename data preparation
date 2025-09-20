@@ -1,0 +1,9 @@
+## data preparation
+mkdir project && cd project
+
+# Download sequence data (original script contained >100 isolates)
+wget https://raw.githubusercontent.com/HackBio-Internship/2025_project_collection/refs/heads/main/SA_Polony_100_download.sh
+
+# Limit dataset to 50 isolates for testing
+head -n 101 SA_Polony_100_download.sh > Polony_50_download.sh
+bash Polony_50_download.sh
