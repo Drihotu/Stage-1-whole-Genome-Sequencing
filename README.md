@@ -126,11 +126,14 @@ abricate --summary VFDB_test/*.tab > VFDB_test/summary/vfdb_summary.tsv
 echo "Done! Summary tables created:"
 echo "  - AMR (CARD): AMR_test/summary/amr_summary.tsv"
 echo "  - Virulence (VFDB): VFDB_test/summary/vfdb_summary.tsv"
-3. Results
-3.1 Organism Identification
+3. RESULTS
+
+3.1 ORGANISM IDENTIFICATION
 BLAST analysis of the assembled contigs revealed the organism was listeria monocytogenes
 The predominance of L. monocytogenes is concerning given its pathogenic potential and association with foodborne illness outbreaks.
+
 3.2 AMR Gene Profile Analysis
+
 Key Findings:
 Beta-lactam resistance: 67% of isolates carried blaZ or related genes
 Tetracycline resistance: 45% carried tetA, tetB, or tetM genes
@@ -144,13 +147,16 @@ Tetracyclines	45	tetA, tetM
 Macrolides	34	ermB, mefA
 Aminoglycosides	28	aph3, ant6
 Fluoroquinolones	19	gyrA, qnrS
-3.3 Virulence Factor Analysis
+
+3.3 VIRULENCE FACTOR
+
 Critical virulence factors detected:
 Listeriolysin O (hly): 78% of L. monocytogenes isolates
 Phospholipase C (plcA): 76% of pathogenic isolates
 Phospholipase C (plcB): 74% of pathogenic isolates
 Internalin A (inlA): 82% of L. monocytogenes
 Internalin B (inlB): 80% of L. monocytogenes
+
 3.4 Multi-Drug Resistance Patterns
 Analysis revealed concerning MDR patterns:
 23% of isolates showed resistance to ≥3 antibiotic classes
@@ -178,7 +184,9 @@ Treatment Duration:
 CNS infections: 21 days minimum
 Bacteremia: 14 days
 Endocarditis: 4-6 weeks
-5. Public Health Implications
+
+5. PUBLIC HEALTH IMPLICATION
+   
 5.1 Food Safety Concerns
 The high prevalence of L. monocytogenes in polony samples (78%) represents a significant food safety risk:
 Immediate Actions Needed: 
@@ -190,20 +198,24 @@ The detection of MDR Listeria strains necessitates:
 Restrictive use of broad-spectrum antibiotics in food production
 Enhanced infection control measures
 Surveillance program implementation
-6. Conclusions
+
+7. CONCLUSIONS
+   
 This genomic analysis of 100 polony isolates reveals:
 1.High pathogenic potential: 78% L. monocytogenes prevalence
 2.Significant AMR burden: 67% beta-lactam resistance, 23% MDR
 3.Virulence factor co-occurrence: 65% of pathogenic isolates carry both resistance and virulence genes
 4.Public health urgency: Immediate intervention required
 The recommended ampicillin + gentamicin combination remains effective for 72% of isolates, but alternative regimens are necessary for MDR cases. Enhanced food safety measures and antimicrobial stewardship programs are critical for controlling this public health threat.
-References
+
+
+REFERENCES
 1.Scallan E, et al. Foodborne illness acquired in the United States. Emerg Infect Dis. 2011;17(1):7-15.
 2.Jia B, et al. CARD 2017: expansion and model-centric curation of the comprehensive antibiotic resistance database. Nucleic Acids Res. 2017;45(D1):D566-D573.
 3.Zankari E, et al. Identification of acquired antimicrobial resistance genes. J Antimicrob Chemother. 2012;67(11):2640-2644.
 4.Seemann T. ABRicate: mass screening of contigs for antimicrobial and virulence genes. GitHub repository. 2018.
 5.Altschul SF, et al. Basic local alignment search tool. J Mol Biol. 1990;215(3):403-410.
-Github link: https://github.com/Drihotu/Stage-1-whole-Genome-Sequencing
+
 
 
 
