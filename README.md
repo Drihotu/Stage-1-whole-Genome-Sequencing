@@ -135,18 +135,10 @@ The predominance of L. monocytogenes is concerning given its pathogenic potentia
 3.2 AMR Gene Profile Analysis
 
 Key Findings:
-Beta-lactam resistance: 67% of isolates carried blaZ or related genes
-Tetracycline resistance: 45% carried tetA, tetB, or tetM genes
-Macrolide resistance: 34% harbored ermB or mefA genes
-Aminoglycoside resistance: 28% contained aph, ant, or aac genes
-Fluoroquinolone resistance: 19% showed gyrA mutations or qnr genes
-Resistance Class Distribution:
-Antibiotic Class	Prevalence (%)	Common Genes
-Beta-lactams	67	blaZ, blaOXA
-Tetracyclines	45	tetA, tetM
-Macrolides	34	ermB, mefA
-Aminoglycosides	28	aph3, ant6
-Fluoroquinolones	19	gyrA, qnrS
+FosX: confers resistance to fosfomycin
+mprF: this had 100% prevalence
+Lincosamide resistance:resistance to lincosamides
+Fluoroquinolone resistance: resistance to fluoroquinolones
 
 3.3 VIRULENCE FACTOR
 
@@ -157,12 +149,9 @@ Critical virulence factors detected:
 Internalin A (inlA): 82% of L. monocytogenes
 Internalin B (inlB): 80% of L. monocytogenes
 
-3.4 Multi-Drug Resistance Patterns
-Analysis revealed concerning MDR patterns:
-23% of isolates showed resistance to ≥3 antibiotic classes
-8% exhibited extensive drug resistance (≥5 classes)
-Co-occurrence of virulence and resistance genes in 65% of pathogenic isolates
+
 4. Evidence-Based Antibiotic Recommendations
+   
 Based on the AMR profile analysis, we propose the following treatment strategies:
 Primary Recommendation: Ampicillin + Gentamicin
 Rationale: Synergistic combination effective against Listeria
@@ -185,7 +174,7 @@ Treatment Duration:
 Bacteremia: 14 days
 Endocarditis: 4-6 weeks
 
-5. PUBLIC HEALTH IMPLICATION
+6. PUBLIC HEALTH IMPLICATION
    
 5.1 Food Safety Concerns
 The high prevalence of L. monocytogenes in polony samples (78%) represents a significant food safety risk:
@@ -210,6 +199,7 @@ The recommended ampicillin + gentamicin combination remains effective for 72% of
 
 
 REFERENCES
+
 1.Scallan E, et al. Foodborne illness acquired in the United States. Emerg Infect Dis. 2011;17(1):7-15.
 2.Jia B, et al. CARD 2017: expansion and model-centric curation of the comprehensive antibiotic resistance database. Nucleic Acids Res. 2017;45(D1):D566-D573.
 3.Zankari E, et al. Identification of acquired antimicrobial resistance genes. J Antimicrob Chemother. 2012;67(11):2640-2644.
