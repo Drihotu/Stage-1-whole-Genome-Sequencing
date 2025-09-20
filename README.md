@@ -135,10 +135,11 @@ The predominance of L. monocytogenes is concerning given its pathogenic potentia
 3.2 AMR Gene Profile Analysis
 
 Key Findings:
-FosX: confers resistance to fosfomycin
-mprF: this had 100% prevalence
-Lincosamide resistance:resistance to lincosamides
-Fluoroquinolone resistance: resistance to fluoroquinolones
+AMR GENE	RESISTANCE
+fosX	    fosfomycin
+lin	        lincosamide
+norB	    fluoroquinolone
+mprF	    peptide
 
 3.3 VIRULENCE FACTOR
 
